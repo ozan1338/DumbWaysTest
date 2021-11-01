@@ -1,0 +1,20 @@
+<%- include("partials/header"); -%>
+    <h1>Compose</h1>
+        <form class="" action="/course" method="post">
+        <div class="form-group">
+            <label>id course</label>
+            <input class="form-control" type="text" name="id">
+            <label>name course</label>
+            <input class="form-control" type="text" name="name" >
+            <label>thumbnail</label>
+            <input class="form-control" type="text" name="thumbnail" >
+            <label>id author</label>
+            <input class="form-control" type="text" name="id_author" >
+            <label>duration</label>
+            <input class="form-control" type="text" name="duration" >
+            <label>description</label>
+            <textarea class="form-control" name="description" rows="5" cols="30"></textarea>
+        </div>
+        <button class="btn btn-primary" type="submit" name="button">submit</button>
+    </form>
+<%- include("partials/footer"); -%>

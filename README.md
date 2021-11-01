@@ -1,0 +1,6 @@
+## **P.S** ini pertama kalinya saya menggunakan git dan readme.md sehingga tidak begitu bagus lalu juga github saya masih kosong semoga ini tidak mengurangi nilai saya
+## <br>1.untuk soal nomor 1-3 saya tidak menggunakan framework apapun sehingga seahrusnya bisa diakses dimanapun<br>
+## <br>2.nomor 3 saya tidak bisa mengerjakannya saya hanya bisa mengerjakan untuk membuat pattern rectangle tetapi agak membingungkan untuk meletakkan * di rectangle<br>
+## <br>3.untuk nomor 4A saya menulis syntax di mySql workbench sehingga saya hanya meletakkan screenshoot di file word<br>
+## <br>4.untuk nomor 4B saya membuat sytling menggunakan framework css yaitu bootsrap sehingga saya tidak menulis sama sekali css untuk mempercepat pengerjaan, lalu untuk backend saya menggunakan node.js dengan framework express lalu saya juga mengintsal body-parser, dotenv dan mysql supaya bisa connect dgn database saya,lalu saya meggunakan ejs sehingga dapat mempercepat pembuatan html dan juga bsa inject data ke dalam html di client-side<br>
+## <br>5.juga unutk nomor 5 saya upload 1 folder bernama 4B jangan khawatir karena saya sudah meletakkan .gitignore sehingga seharusnya size file saat clone tidak begitu besar

@@ -1,0 +1,18 @@
+<%- include("partials/header"); -%>
+
+        <section class="container">
+            <div class="row">
+                <% for(let i = 0; i<data.length; i++){%>
+                <div class="card" style="width: 18rem;">
+                    <img src="html.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title"><%=data[i].name%></h5>
+                      <p class="card-text"><%=data[i].description%>.</p>
+                      <a href="#" class="btn btn-primary">Read more</a>
+                    </div>
+                </div> 
+                <%}%>
+            </div>
+        </section>
+
+<%- include("partials/footer"); -%>
